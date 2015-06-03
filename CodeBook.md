@@ -4,7 +4,7 @@ Each of 180 columns in the tidy dataset correspond to each of 30 participants (n
 
 Training and test data were combined.  Each measurement was taken multiple times for all participants performing each of the 6 tasks.  Summary statistics for these measurments were reported in the raw data set (e.g. mean, standard deviation, min, max plus others).  Only variables corresponding to means and standard deviations were included in the tidy dataset.
 
-Rows correspond to mean values for the following features measured.  Some features have been taken in the x, y and z dimensions, denoted by "-XYZ" suffix of variable name:
+Rows correspond to average values of the means and standard deviations for the following features measured.  Some features have been taken in the x, y and z dimensions, denoted by "-XYZ" suffix of variable name:
 
 tBodyAcc-XYZ
 
